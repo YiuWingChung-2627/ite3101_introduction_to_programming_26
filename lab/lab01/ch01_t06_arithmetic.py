@@ -1,1 +1,1 @@
-product=
+product=9*9
