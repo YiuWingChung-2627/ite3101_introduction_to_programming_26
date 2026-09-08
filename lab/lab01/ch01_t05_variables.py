@@ -1,1 +1,1 @@
-todays_date=5
+todays_date=""
