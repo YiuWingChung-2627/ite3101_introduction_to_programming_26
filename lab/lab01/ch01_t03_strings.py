@@ -1,1 +1,1 @@
-print("I am "+"")
+print("I am "+"a")
