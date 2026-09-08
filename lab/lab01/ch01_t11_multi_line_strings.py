@@ -1,1 +1,1 @@
-haiku="The o
+haiku=
