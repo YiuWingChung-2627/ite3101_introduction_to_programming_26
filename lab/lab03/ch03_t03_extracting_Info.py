@@ -3,6 +3,6 @@ now = datetime.now()
 current_year = now.year 
 current_month = now.month 
 current_day = now.day
-print(str(current_year)
-print(str(current_month)
-print(str(current_day)
+print(current_year)
+print(current_month)
+print(current_day)
