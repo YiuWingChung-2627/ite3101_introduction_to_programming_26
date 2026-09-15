@@ -1,6 +1,6 @@
 from datetime import datetime
 
 now = datetime.now()
-print(current_year)
-print(current_month)
-print(current_day)
+print{}
+print()
+print()
