@@ -1,2 +1,2 @@
-parrot="Norrwegian Blue"
+parrot="Norwegian Blue"
 print(len(parrot))
