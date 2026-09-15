@@ -1,2 +1,2 @@
-parrot="No"
+parrot="Norrwegian Blue"
 print
