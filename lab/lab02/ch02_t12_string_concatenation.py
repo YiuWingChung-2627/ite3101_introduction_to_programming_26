@@ -1,2 +1,2 @@
 # Print the concatenation of "Spam and eggs" on line 3!
-"Spam ", "and "+"eggs"
+"Spam "+"and "+"eggs"
