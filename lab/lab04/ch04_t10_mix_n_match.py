@@ -14,4 +14,3 @@ bool_four = not (10 > 105) and 6 > 2
 
 # Make me true!
 bool_five = not (70 < 2) or 12 < 1
-print(bool_one, bool_two, bool_three, bool_four, bool_five)
