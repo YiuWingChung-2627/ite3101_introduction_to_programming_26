@@ -13,4 +13,4 @@ bool_three = 10/2==5
 bool_four = 20*7<=10
 
 # Make me true!
-bool_five = None
+bool_five = 19**7>9
