@@ -1,6 +1,6 @@
-response = Y
+response = Y"
 
-answer = "Left"
+answer = "Lef11t"
 if answer == "Left":
     print("This is the Verbal Abuse Room, you heap of parrot droppings!")
 
