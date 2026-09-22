@@ -1,4 +1,4 @@
-response = Y"
+response = "Y"
 
 answer = "Lef11t"
 if answer == "Left":
