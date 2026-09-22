@@ -10,7 +10,7 @@ bool_two = 1=1 or 2>3
 bool_three = 99<1 and 20>1
 
 # Make me true!
-bool_four = None
+bool_four = not 10<105 and not 6>2
 
 # Make me true!
-bool_five = None
+bool_five = Non
