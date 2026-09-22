@@ -1,5 +1,5 @@
 bool_one = False or not True and True
-print(bool)
+print(bool_one)
 bool_two = None
 
 bool_three = None
