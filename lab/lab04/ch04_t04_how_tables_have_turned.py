@@ -10,7 +10,7 @@ bool_two = 1!=(2-1)
 bool_three = 10/2==5
 
 # Make me false!
-bool_four = 20*7
+bool_four = 20*7<=10
 
 # Make me true!
 bool_five = None
