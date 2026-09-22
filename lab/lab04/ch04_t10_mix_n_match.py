@@ -7,7 +7,7 @@ bool_one = (2 <= 2) and "Alpha" == "Bravo"  # We did this one for you!
 bool_two = 1=1 or 2>3
 
 # Make me false!
-bool_three = 99
+bool_three = 99<1 and 20>1
 
 # Make me true!
 bool_four = None
