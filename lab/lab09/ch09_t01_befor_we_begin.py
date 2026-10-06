@@ -1,1 +1,1 @@
-names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
+names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]for i in range
