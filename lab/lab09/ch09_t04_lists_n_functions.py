@@ -2,7 +2,7 @@
 def fizz_count(x):
     a = 0
     for i in x:
-        if x[i] == "fizz":
+        if i == "fizz":
             a += 1
     return a
 
