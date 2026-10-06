@@ -13,4 +13,4 @@ stock = {
 for i in prices:
     print(i)
     print("prices: %s" % prices[i])
-    print(stock[i])
+    print("Once: %s" % stock[i])
