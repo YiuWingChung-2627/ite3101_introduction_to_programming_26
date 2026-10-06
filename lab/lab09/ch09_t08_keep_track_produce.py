@@ -11,4 +11,5 @@ stock = {
     "pear": 15,
 }
 for i in prices:
-    
+    print(i)
+    print("")
