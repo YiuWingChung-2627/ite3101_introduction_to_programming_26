@@ -5,3 +5,5 @@ def fizz_count(x):
         if x[i] == "fizz":
             a += 1
     return a
+
+input
