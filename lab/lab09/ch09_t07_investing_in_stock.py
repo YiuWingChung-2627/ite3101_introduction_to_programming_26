@@ -5,4 +5,6 @@ prices = {
     "pear": 3
 }
 
-stock=[6,0,32,15]
+stock={
+    
+}
