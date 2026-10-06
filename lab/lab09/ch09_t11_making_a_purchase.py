@@ -18,5 +18,5 @@ prices = {
 def compute_bill(food):
     total=0
     for k in food:
-        total += prices[i]
+        total += prices[k]
     return total
