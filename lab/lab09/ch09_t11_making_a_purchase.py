@@ -20,4 +20,5 @@ def compute_bill(food):
     for k in food:
         for i in prices:
             if i == food[i]:
-                total += 
+                total += prices[i]
+    return total
