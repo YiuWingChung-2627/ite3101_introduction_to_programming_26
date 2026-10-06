@@ -18,4 +18,4 @@ prices = {
 def compute_bill(food):
     total=0
     for i in prices:
-        if 
+        if i ==
